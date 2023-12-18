@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">K-POP2</string>
+    <string name="judul">NAMA</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>ENHYPEN DARK BLOOD</item>
+        <item>ENHYPEN PARADOX</item>
+        <item>HEESEUNG</item>
+        <item>HEESEUNG LEE</item>
+        <item>JAKE</item>
+        <item>JAKE SIM</item>
+        <item>JAY</item>
+        <item>JIMIN</item>
+        <item>JUNGWON</item>
+        <item>NIKI</item>
+        <item>NISHIMURA RIKI</item>
+        <item>SUGA</item>
+        <item>MIN YOONGI</item>
+        <item>SUNGHOON</item>
+        <item>SUNOO</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Group idola K-pop ENHYPEN telah mencapai rekor baru dari karir bermusik mereka melalui mini album ke 4 berjudul "Dark Blood" yang dirilis pada 22 Mei 2022</item>
+        <item>Rilis MV Baru ParadoXXX Invasion ENHYPEN Tampil Catchy!</item>
+        <item>Heeseung adalah anggota grup idola K-pop ENHYPEN yang terbentuk melalui acara survival "I-LAND" pada tahun 2020. </item>
+        <item>Heeseung terkenal karena bakat vokalnya yang luar biasa dan kemampuannya dalam menari. Sebagai pemimpin grup, dia memiliki tanggung jawab untuk membimbing dan memotivasi anggota lainnya. Heeseung juga dikenal dengan pesona dan karismanya di atas panggung.</item>
+        <item>Jake (nama asli: Jake Sim) adalah anggota ENHYPEN, sebuah grup idola K-pop yang terbentuk melalui acara survival "I-LAND" pada tahun 2020. </item>
+        <item>Jake lahir pada 15 November 2002. Ia merupakan salah satu vokalis di grup ini. Sebagai anggota ENHYPEN, Jake memiliki penampilan dan bakat vokal yang unik, serta telah memperoleh popularitas di kalangan penggemar K-pop.</item>
+        <item>Dalam ENHYPEN, Jay bertanggung jawab sebagai rapper dan vokalis. Grup ini debut pada November 2020 dengan album "BORDER: DAY ONE" dan mendapatkan popularitas di kalangan penggemar K-pop.</item>
+        <item>Park Jimin, yang lebih dikenal dengan nama panggungnya Jimin, adalah anggota dari grup musik K-pop populer, BTS (Bangtan Sonyeondan). </item>
+        <item>Kim Jungwon, yang lebih dikenal dengan nama panggungnya Jungwon, adalah pemimpin grup ENHYPEN, sebuah boy band K-pop yang debut pada tahun 2020.</item>
+        <item>Niki adalah salah satu anggota dari grup idola K-pop ENHYPEN. Niki lahir pada 9 Agustus 2005 di Saitama, Jepang. Ia terkenal karena bakatnya dalam menari dan menjadi salah satu penari utama dalam grup tersebut.</item>
+        <item>Selain bakat menarinya, Niki juga dikenal dengan energi positifnya dan karisma di atas panggung. Sebagai anggota termuda dalam ENHYPEN, dia mendapat dukungan besar dari penggemar dan terus berkembang dalam karirnya sebagai idola K-pop.</item>
+        <item>Suga, yang sebenarnya bernama Min Yoon-gi, adalah rapper dan produser rekaman asal Korea Selatan yang menjadi salah satu anggota BTS (Bangtan Sonyeondan). Ia lahir pada 9 Maret 1993, di Daegu, Korea Selatan.</item>
+        <item>Suga adalah sosok yang sangat dihormati di industri musik Korea dan dunia. Ia tidak hanya menjadi figur kunci dalam kesuksesan BTS, tetapi juga memiliki dampak yang besar sebagai seniman solo dan produser musik.</item>
+        <item>Sunghoon adalah seorang anggota ENHYPEN, sebuah grup idola K-pop yang dibentuk melalui acara survival "I-LAND" pada tahun 2020. Sunghoon memiliki nama lengkap Yang Sunghoon (양성훈) dan lahir pada tanggal 8 Desember 2002.</item>
+        <item>Sunoo adalah anggota dari grup idola K-pop ENHYPEN. Sunoo lahir pada 24 Agustus 2003, dan dia adalah vokalis utama dan penari utama dalam grup tersebut.</item>
+    </string-array>
+
+    <array name="video_id">
+        <item>@raw/enhypen</item>
+        <item>@raw/enhypen2</item>
+        <item>@drawable/hee</item>
+        <item>@drawable/hee2</item>
+        <item>@drawable/jake</item>
+        <item>@drawable/jake2</item>
+        <item>@drawable/jay</item>
+        <item>@drawable/jimin</item>
+        <item>@drawable/jungwon</item>
+        <item>@drawable/niki</item>
+        <item>@drawable/niki2</item>
+        <item>@drawable/suga</item>
+        <item>@drawable/suga2</item>
+        <item>@drawable/sunghoon</item>
+        <item>@drawable/sunoo</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/enhypen</item>
+        <item>@drawable/enhypen2</item>
+        <item>@drawable/hee</item>
+        <item>@drawable/hee2</item>
+        <item>@drawable/jake</item>
+        <item>@drawable/jake2</item>
+        <item>@drawable/jay</item>
+        <item>@drawable/jimin</item>
+        <item>@drawable/jungwon</item>
+        <item>@drawable/niki</item>
+        <item>@drawable/niki2</item>
+        <item>@drawable/suga</item>
+        <item>@drawable/suga2</item>
+        <item>@drawable/sunghoon</item>
+        <item>@drawable/sunoo</item>
+
+    </integer-array>
+</resources>
